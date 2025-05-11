@@ -1,12 +1,5 @@
 ![Reactive Resume](https://i.imgur.com/FFc4nyZ.jpg)
 
-![App Version](https://img.shields.io/github/package-json/version/AmruthPillai/Reactive-Resume?label=version)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amruthpillai/reactive-resume)](https://hub.docker.com/repository/docker/amruthpillai/reactive-resume)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/AmruthPillai)](https://github.com/sponsors/AmruthPillai)
-[![Crowdin](https://badges.crowdin.net/reactive-resume/localized.svg)](https://crowdin.com/project/reactive-resume)
-[![Discord](https://img.shields.io/discord/1173518977851473940?label=discord&link=https%3A%2F%2Fdiscord.gg%2FhzwkZbyvUW)](https://discord.gg/hzwkZbyvUW)
-
-
 
 ## Templates
 
